@@ -29,7 +29,6 @@ export const SEO = ({ title = defaultTitle, description = defaultDescription, lo
 		"contactPoint": [{
 			"@type": "ContactPoint",
 			"email": "${contact.email}",
-			"telephone": "${contact.phone}",
 			"contactType": "customer service"
 		}],
 		"address": {

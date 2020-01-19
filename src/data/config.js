@@ -9,9 +9,9 @@ module.exports = {
     github: 'https://github.com/sjmiddlebrook',
     linkedin: 'https://www.linkedin.com/in/jack-middlebrook/',
   },
-  googleAnalyticsID: 'UA-88875900-4',
-  themeColor: '#4cb5ab',
-  backgroundColor: '#4cb5ab',
+  googleAnalyticsID: 'UA-57167422-3',
+  themeColor: '#009688',
+  backgroundColor: '#009688',
   address: {
     city: 'City',
     region: 'Region',
@@ -20,7 +20,6 @@ module.exports = {
   },
   contact: {
     email: 'jack@creativehike.com',
-    phone: 'phone number',
   },
   foundingDate: '2019',
   recaptcha_key: '6LeKmdAUAAAAALNyn0jfXVsvTcMtVaNMQalZpuJE',

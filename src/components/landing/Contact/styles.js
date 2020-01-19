@@ -13,7 +13,7 @@ export const Wrapper = styled.div`
 
 export const Details = styled.div`
   flex: 1;
-  padding-right: 2rem;
+  padding-right: 5rem;
 
   @media (max-width: 960px) {
     padding-right: unset;

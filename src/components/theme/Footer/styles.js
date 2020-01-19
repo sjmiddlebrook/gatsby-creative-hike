@@ -2,10 +2,6 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
   padding: 2rem 0;
-  background-image: url('../illustrations/footer.svg');
-  background-size: cover;
-  background-position: top;
-  background-repeat: no-repeat;
 `;
 
 export const Flex = styled.div`
